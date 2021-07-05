@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100&family=Zen+Tokyo+Zoo&display=swap');
+
+/* two distingt looking fonts */
+body {
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+.newFont {
+    font-family: 'Encode Sans SC', sans-serif;
+}
